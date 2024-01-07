@@ -57,7 +57,6 @@ terraform apply
 
 ## システム構成図
 
-T&M 様の要望通りの構成を準備
 ![fogefoge](docs/img/fogefoge.drawio.png)
 
 - サーバー 1 台の構成
